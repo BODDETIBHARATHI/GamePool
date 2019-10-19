@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1570966704 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\startpage.c
+	<stdio.h>
+	<windows.h>
+
+1570957823 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\mainfunction.c
+	<stdio.h>
+	<conio.h>
+	<time.h>
+	"gamepoolheader.h"
+
+1571052925 c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\gamepoolheader.h
+
+1571059048 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\numberguessgame.c
+	<stdio.h>
+	<stdlib.h>
+
+1570430062 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\printpattern.c
+	<stdio.h>
+	<stdlib.h>
+	"gamepoolheader.h"
+
+1570957724 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\print1stpageofminesweeper.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<time.h>
+	"gamepoolheader.h"
+
+1570947756 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\printrulesofminesweeper.c
+	<stdlib.h>
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570955288 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\printminesweeperboard.c
+	<stdio.h>
+
+1570682302 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\chooselevel.c
+	<stdio.h>
+
+1570966408 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\playminesweepergame.c
+	<stdio.h>
+	<conio.h>
+	<stdlib.h>
+	<time.h>
+	<ctype.h>
+	<string.h>
+	"gamepoolheader.h"
+
+1570954729 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\recordplayername.c
+	<stdio.h>
+	<ctype.h>
+
+1570966322 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\losethegame.c
+	<stdio.h>
+	"gamepoolheader.h"
+
+1570966959 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\thankingpage.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1570966370 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\wonthegame.c
+	<stdio.h>
+	"gamepoolheader.h"
+
+1571054333 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\guessedthenumber.c
+	<stdio.h>
+
+1571054317 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\recordplayernameofnumberguess.c
+	<stdio.h>
+	<ctype.h>
+
+1571054383 source:c:\users\bharathi\onedrive\desktop\bharathi programs\gamepool\thankingpageofnumberguess.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+

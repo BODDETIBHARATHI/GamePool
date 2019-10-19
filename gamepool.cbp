@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="gamepool" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/gamepool" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/gamepool" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+		</Compiler>
+		<Unit filename="chooselevel.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="gamepoolheader.h" />
+		<Unit filename="guessedthenumber.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="losethegame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="mainfunction.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="numberguessgame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="playminesweepergame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="print1stpageofminesweeper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printminesweeperboard.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printpattern.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="printrulesofminesweeper.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recordplayername.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recordplayername.txt" />
+		<Unit filename="recordplayernameofnumberguess.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="recordplayernameofnumberguess.txt" />
+		<Unit filename="startpage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="thankingpage.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="thankingpageofnumberguess.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="wonthegame.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
